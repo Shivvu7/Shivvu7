@@ -1,41 +1,29 @@
-Hi, I'm Sivasai Sariki 👋
-Welcome to my GitHub profile! I'm a passionate developer with a focus on Data Science, Machine Learning,Web Development and IoT Technologies.
-I love building innovative solutions that make a real-world impact. 
-Feel free to explore my repositories and get a glimpse of my projects and skills.
+<h1 align="center">Hi 👋, I'm Sivasai Sariki</h1>
+<h3 align="center">🧑‍🏫 I love building innovative solutions that make a real-world impact</h3>
 
-👨‍💻 About Me:
-🔭 Currently working on Ecommerce Website https://github.com/Shivvu7/ecommercefrontend
-🌱 Always learning and experimenting with Machine Learning,Data Science ,WEB Development ,cloud computing, AI, and real-time systems.
-🧑‍🏫 Passionate about solving complex problems through code and creating user-centric applications.
-📫 How to reach me: sivasaisariki@gmail.com
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivvu7" alt="shivvu7" /></a> </p>
 
-Worked on a Credit Card Default Prediction project using a predictive model to identify possible defaulters.
-Developed and refined the model using Python, Pandas, and data visualization techniques.
-The final model was highly accurate, providing valuable insights into reputation risk management.
-🛠️ Projects:
-Chatbot Application
-Developed an AI-powered chatbot using Wit.ai for natural language processing.
-Built the frontend with HTML, CSS, JavaScript, and the backend with PHP and MySQL.
-The chatbot was designed for real-time user interaction and dynamic conversation handling.
-Smart Garbage Bin
-Worked on an IoT-based Smart Garbage Monitoring System for the Smart India Hackathon-2023.
-Used IoT sensors and wireless communication to monitor waste levels in real-time.
-Helped optimize waste management by improving collection routes and urban cleanliness.
-🧑‍💻 Technical Skills:
-Programming Languages: C, C++, Python, HTML, CSS, JavaScript,React SQL
-Domains: Data Science, Machine Learning, Web Development,IoT and Cloud Computing
-working Platorms: Google Coolab,Vercel,Vs Code  and Vite
-🏆 Certifications:
-AWS Academy Graduate - AWS Cloud Foundations
-Certified Data Science - SkilliLearn
-Problem Solving Skills - HackerRank
-IT Essentials - Cisco Netacad
-🎯 Achievements:
-Participated in Smart India Hackathon-2023.
-3-star coder on CodeChef.
-📈 GitHub Stats:
+- 🔭 I’m currently working on [E-commerce website](https://ecommercefrontend-nine.vercel.app/)
 
-💬 Connect with Me:
-LinkedIn:https://www.linkedin.com/in/sivasai-sariki-407774229
-GeeksForGeeks:https://www.geeksforgeeks.org/user/shivvu_sariki
-Codechef:https://www.codechef.com/users/shivvu_7
+- 🌱 I’m Strong at **Data Science,Machine Learning and Web Development**
+
+- 🧑‍🏫 Passionate about solving complex problems through code and creating user-centric applications.
+
+- 🌱 Always learning and experimenting with new technologies and real-time systems.
+
+- 👨‍💻 All of my projects are available at [https://github.com/Shivvu7](https://github.com/Shivvu7)
+
+- 📫 How to reach me **sivasaisariki@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sivasai sariki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivasai sariki" height="30" width="40" /></a>
+<a href="https://instagram.com/shivvu_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivvu_7" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shivvu_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivvu_7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sivasaisariki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sivasaisariki" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivvu_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivvu_7" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/shivvu_sariki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shivvu_sariki" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
