@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivvu7" alt="shivvu7" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce website](https://ecommercefrontend-ecru-two.vercel.app/)
+- 🔭 I’m currently working on [E-commerce website](https://ecommercefrontend-nine.vercel.app/)
 
 - 🌱 I’m Strong at **Data Science,Machine Learning and Web Development**
 
