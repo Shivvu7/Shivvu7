@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sivasai Sariki</h1>
-<h3 align="center">🧑‍🏫 I love building innovative solutions that make a real-world impact</h3>
+<h1 align="center">Hi👋, I'm Sivasai Sariki</h1>
+
+<p align="center"> <img src="https://tse2.mm.bing.net/th?id=OIP.-ntL3Dsvc-dJ5cLGRtSuEwHaC3&pid=Api&P=0&h=180"></p>
+<h4 align="center">🧑‍🏫 I love building innovative solutions that make a real-world impact</h4>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivvu7" alt="shivvu7" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerce website](https://ecommercefrontend-nine.vercel.app/)
@@ -14,8 +17,7 @@
 
 - 📫 How to reach me **sivasaisariki@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">My Coding platform profiles here 👇</h3> <p align="left">
 <a href="https://linkedin.com/in/sivasai sariki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivasai sariki" height="30" width="40" /></a>
 <a href="https://instagram.com/shivvu_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivvu_7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shivvu_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivvu_7" height="30" width="40" /></a>
