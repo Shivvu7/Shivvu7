@@ -4,7 +4,7 @@
 <h4 align="center">🧑‍🏫 I love building innovative solutions that make a real-world impact</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivvu7" alt="shivvu7" /></a> </p>
-      Click here to view My Portfolio --> (https://portfolio-bay-theta-67.vercel.app/)
+   My Portfolio➡️ https://portfolio-bay-theta-67.vercel.app/
 
 - 🔭 I’m currently working on [E-commerce website](https://ecommercefrontend-nine.vercel.app/)
 
@@ -14,7 +14,7 @@
 
 - 🌱 Always learning and experimenting with new technologies and real-time systems.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shivvu7](https://github.com/Shivvu7)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Shivvu7)
 
 - 📫 How to reach me **sivasaisariki@gmail.com**
 
